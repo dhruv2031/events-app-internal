@@ -88,3 +88,8 @@ git config --global user.email "dhruv2031@gmail.com"
 git config --global user.name "dhruv2031"
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/dhruv2031/events-app-internal
+git push -u origin master
+git init
